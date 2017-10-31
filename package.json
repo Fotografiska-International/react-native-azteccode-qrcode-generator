@@ -1,7 +1,7 @@
 
 {
   "name": "react-native-azteccode-qrcode-generator",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "react-native Aztec and qrocode generator",
   "main": "index.js",
   "repository": {
